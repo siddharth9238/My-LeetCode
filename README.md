@@ -8,6 +8,7 @@
 | [0115-distinct-subsequences](https://github.com/siddharth9238/My-LeetCode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/siddharth9238/My-LeetCode/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0140-word-break-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -17,12 +18,14 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/siddharth9238/My-LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/siddharth9238/My-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0140-word-break-ii) |
 ## Array
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/siddharth9238/My-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/siddharth9238/My-LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/siddharth9238/My-LeetCode/tree/master/0135-candy) |
+| [0140-word-break-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0140-word-break-ii) |
 ## Stack
 |  |
 | ------- |
@@ -55,8 +58,21 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/siddharth9238/My-LeetCode/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0140-word-break-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/siddharth9238/My-LeetCode/tree/master/0127-word-ladder) |
+## Backtracking
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0140-word-break-ii) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
