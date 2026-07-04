@@ -10,6 +10,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/siddharth9238/My-LeetCode/tree/master/0214-shortest-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -117,4 +118,16 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/siddharth9238/My-LeetCode/tree/master/0239-sliding-window-maximum) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/siddharth9238/My-LeetCode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/siddharth9238/My-LeetCode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/siddharth9238/My-LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
