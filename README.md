@@ -11,6 +11,7 @@
 | [0140-word-break-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/siddharth9238/My-LeetCode/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/siddharth9238/My-LeetCode/tree/master/0224-basic-calculator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/siddharth9238/My-LeetCode/tree/master/0085-maximal-rectangle) |
+| [0224-basic-calculator](https://github.com/siddharth9238/My-LeetCode/tree/master/0224-basic-calculator) |
 ## Matrix
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/siddharth9238/My-LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0224-basic-calculator](https://github.com/siddharth9238/My-LeetCode/tree/master/0224-basic-calculator) |
 ## Geometry
 |  |
 | ------- |
@@ -164,4 +167,8 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/siddharth9238/My-LeetCode/tree/master/0220-contains-duplicate-iii) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/siddharth9238/My-LeetCode/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
