@@ -21,6 +21,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/siddharth9238/My-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/siddharth9238/My-LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0135-candy](https://github.com/siddharth9238/My-LeetCode/tree/master/0135-candy) |
 ## Stack
 |  |
 | ------- |
@@ -45,4 +46,8 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/siddharth9238/My-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/siddharth9238/My-LeetCode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
