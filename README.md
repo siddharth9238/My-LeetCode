@@ -24,6 +24,7 @@
 | [0140-word-break-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/siddharth9238/My-LeetCode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/siddharth9238/My-LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0233-number-of-digit-one](https://github.com/siddharth9238/My-LeetCode/tree/master/0233-number-of-digit-one) |
 ## Array
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/siddharth9238/My-LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/siddharth9238/My-LeetCode/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/siddharth9238/My-LeetCode/tree/master/0233-number-of-digit-one) |
 ## Geometry
 |  |
 | ------- |
@@ -171,4 +173,5 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/siddharth9238/My-LeetCode/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/siddharth9238/My-LeetCode/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
