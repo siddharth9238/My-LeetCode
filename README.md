@@ -40,6 +40,7 @@
 | [0218-the-skyline-problem](https://github.com/siddharth9238/My-LeetCode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/siddharth9238/My-LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/siddharth9238/My-LeetCode/tree/master/0239-sliding-window-maximum) |
+| [1288-remove-covered-intervals](https://github.com/siddharth9238/My-LeetCode/tree/master/1288-remove-covered-intervals) |
 ## Stack
 |  |
 | ------- |
@@ -160,6 +161,7 @@
 | ------- |
 | [0218-the-skyline-problem](https://github.com/siddharth9238/My-LeetCode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/siddharth9238/My-LeetCode/tree/master/0220-contains-duplicate-iii) |
+| [1288-remove-covered-intervals](https://github.com/siddharth9238/My-LeetCode/tree/master/1288-remove-covered-intervals) |
 ## Ordered Set
 |  |
 | ------- |
