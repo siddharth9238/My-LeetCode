@@ -31,6 +31,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/siddharth9238/My-LeetCode/tree/master/0011-container-with-most-water) |
 | [0085-maximal-rectangle](https://github.com/siddharth9238/My-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/siddharth9238/My-LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/siddharth9238/My-LeetCode/tree/master/0135-candy) |
@@ -82,6 +83,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/siddharth9238/My-LeetCode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/siddharth9238/My-LeetCode/tree/master/0135-candy) |
 | [1382-balance-a-binary-search-tree](https://github.com/siddharth9238/My-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Hash Table
@@ -200,4 +202,8 @@
 |  |
 | ------- |
 | [3721-longest-balanced-subarray-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/siddharth9238/My-LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
