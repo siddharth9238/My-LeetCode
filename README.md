@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/siddharth9238/My-LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/siddharth9238/My-LeetCode/tree/master/0012-integer-to-roman) |
 | [0087-scramble-string](https://github.com/siddharth9238/My-LeetCode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/siddharth9238/My-LeetCode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/siddharth9238/My-LeetCode/tree/master/0127-word-ladder) |
@@ -89,6 +90,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/siddharth9238/My-LeetCode/tree/master/0012-integer-to-roman) |
 | [0127-word-ladder](https://github.com/siddharth9238/My-LeetCode/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/siddharth9238/My-LeetCode/tree/master/0149-max-points-on-a-line) |
@@ -114,6 +116,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/siddharth9238/My-LeetCode/tree/master/0012-integer-to-roman) |
 | [0149-max-points-on-a-line](https://github.com/siddharth9238/My-LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/siddharth9238/My-LeetCode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/siddharth9238/My-LeetCode/tree/master/0233-number-of-digit-one) |
