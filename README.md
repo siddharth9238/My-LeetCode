@@ -127,6 +127,7 @@
 | [0149-max-points-on-a-line](https://github.com/siddharth9238/My-LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/siddharth9238/My-LeetCode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/siddharth9238/My-LeetCode/tree/master/0233-number-of-digit-one) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/siddharth9238/My-LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Geometry
 |  |
 | ------- |
