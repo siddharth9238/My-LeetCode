@@ -27,6 +27,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/siddharth9238/My-LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/siddharth9238/My-LeetCode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/siddharth9238/My-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/siddharth9238/My-LeetCode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/siddharth9238/My-LeetCode/tree/master/0115-distinct-subsequences) |
@@ -59,6 +60,7 @@
 | [0049-group-anagrams](https://github.com/siddharth9238/My-LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/siddharth9238/My-LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/siddharth9238/My-LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/siddharth9238/My-LeetCode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/siddharth9238/My-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/siddharth9238/My-LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/siddharth9238/My-LeetCode/tree/master/0135-candy) |
@@ -116,6 +118,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/siddharth9238/My-LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/siddharth9238/My-LeetCode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/siddharth9238/My-LeetCode/tree/master/0135-candy) |
 | [1382-balance-a-binary-search-tree](https://github.com/siddharth9238/My-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Hash Table
