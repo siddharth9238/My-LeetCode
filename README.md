@@ -48,6 +48,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siddharth9238/My-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/siddharth9238/My-LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/siddharth9238/My-LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0085-maximal-rectangle](https://github.com/siddharth9238/My-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/siddharth9238/My-LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/siddharth9238/My-LeetCode/tree/master/0135-candy) |
@@ -124,6 +125,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/siddharth9238/My-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/siddharth9238/My-LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0140-word-break-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0212-word-search-ii) |
 ## Trie
