@@ -10,6 +10,7 @@
 | [0014-longest-common-prefix](https://github.com/siddharth9238/My-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/siddharth9238/My-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/siddharth9238/My-LeetCode/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/siddharth9238/My-LeetCode/tree/master/0038-count-and-say) |
 | [0087-scramble-string](https://github.com/siddharth9238/My-LeetCode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/siddharth9238/My-LeetCode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/siddharth9238/My-LeetCode/tree/master/0127-word-ladder) |
