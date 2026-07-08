@@ -58,6 +58,7 @@
 | [0048-rotate-image](https://github.com/siddharth9238/My-LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/siddharth9238/My-LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/siddharth9238/My-LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/siddharth9238/My-LeetCode/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/siddharth9238/My-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/siddharth9238/My-LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/siddharth9238/My-LeetCode/tree/master/0135-candy) |
@@ -84,6 +85,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/siddharth9238/My-LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/siddharth9238/My-LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/siddharth9238/My-LeetCode/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/siddharth9238/My-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/siddharth9238/My-LeetCode/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0212-word-search-ii) |
@@ -277,4 +279,8 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/siddharth9238/My-LeetCode/tree/master/0029-divide-two-integers) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/siddharth9238/My-LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
