@@ -62,6 +62,7 @@
 | [0054-spiral-matrix](https://github.com/siddharth9238/My-LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/siddharth9238/My-LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/siddharth9238/My-LeetCode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/siddharth9238/My-LeetCode/tree/master/0057-insert-interval) |
 | [0085-maximal-rectangle](https://github.com/siddharth9238/My-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/siddharth9238/My-LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/siddharth9238/My-LeetCode/tree/master/0135-candy) |
