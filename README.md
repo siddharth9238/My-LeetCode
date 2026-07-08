@@ -157,6 +157,7 @@
 | [0013-roman-to-integer](https://github.com/siddharth9238/My-LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/siddharth9238/My-LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/siddharth9238/My-LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/siddharth9238/My-LeetCode/tree/master/0050-powx-n) |
 | [0149-max-points-on-a-line](https://github.com/siddharth9238/My-LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/siddharth9238/My-LeetCode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/siddharth9238/My-LeetCode/tree/master/0233-number-of-digit-one) |
@@ -243,6 +244,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/siddharth9238/My-LeetCode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/siddharth9238/My-LeetCode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/siddharth9238/My-LeetCode/tree/master/0233-number-of-digit-one) |
 ## Binary Search Tree
