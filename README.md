@@ -11,6 +11,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/siddharth9238/My-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/siddharth9238/My-LeetCode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/siddharth9238/My-LeetCode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/siddharth9238/My-LeetCode/tree/master/0049-group-anagrams) |
 | [0087-scramble-string](https://github.com/siddharth9238/My-LeetCode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/siddharth9238/My-LeetCode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/siddharth9238/My-LeetCode/tree/master/0127-word-ladder) |
@@ -54,6 +55,7 @@
 | [0046-permutations](https://github.com/siddharth9238/My-LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/siddharth9238/My-LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/siddharth9238/My-LeetCode/tree/master/0049-group-anagrams) |
 | [0085-maximal-rectangle](https://github.com/siddharth9238/My-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/siddharth9238/My-LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/siddharth9238/My-LeetCode/tree/master/0135-candy) |
@@ -119,6 +121,7 @@
 | [0013-roman-to-integer](https://github.com/siddharth9238/My-LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/siddharth9238/My-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/siddharth9238/My-LeetCode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/siddharth9238/My-LeetCode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/siddharth9238/My-LeetCode/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/siddharth9238/My-LeetCode/tree/master/0149-max-points-on-a-line) |
@@ -224,6 +227,7 @@
 | [0016-3sum-closest](https://github.com/siddharth9238/My-LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/siddharth9238/My-LeetCode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/siddharth9238/My-LeetCode/tree/master/0049-group-anagrams) |
 | [0218-the-skyline-problem](https://github.com/siddharth9238/My-LeetCode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/siddharth9238/My-LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [1288-remove-covered-intervals](https://github.com/siddharth9238/My-LeetCode/tree/master/1288-remove-covered-intervals) |
