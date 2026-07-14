@@ -40,6 +40,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/siddharth9238/My-LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0233-number-of-digit-one](https://github.com/siddharth9238/My-LeetCode/tree/master/0233-number-of-digit-one) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/siddharth9238/My-LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/siddharth9238/My-LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Array
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [0220-contains-duplicate-iii](https://github.com/siddharth9238/My-LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/siddharth9238/My-LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1288-remove-covered-intervals](https://github.com/siddharth9238/My-LeetCode/tree/master/1288-remove-covered-intervals) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/siddharth9238/My-LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3721-longest-balanced-subarray-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Stack
 |  |
@@ -171,6 +173,7 @@
 | [0149-max-points-on-a-line](https://github.com/siddharth9238/My-LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/siddharth9238/My-LeetCode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/siddharth9238/My-LeetCode/tree/master/0233-number-of-digit-one) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/siddharth9238/My-LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/siddharth9238/My-LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Geometry
@@ -290,4 +293,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/siddharth9238/My-LeetCode/tree/master/0054-spiral-matrix) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/siddharth9238/My-LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
