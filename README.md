@@ -153,6 +153,7 @@
 | [0047-permutations-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0047-permutations-ii) |
 | [0140-word-break-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0212-word-search-ii) |
+| [0401-binary-watch](https://github.com/siddharth9238/My-LeetCode/tree/master/0401-binary-watch) |
 ## Trie
 |  |
 | ------- |
@@ -294,6 +295,7 @@
 | [0029-divide-two-integers](https://github.com/siddharth9238/My-LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/siddharth9238/My-LeetCode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/siddharth9238/My-LeetCode/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/siddharth9238/My-LeetCode/tree/master/0401-binary-watch) |
 ## Simulation
 |  |
 | ------- |
