@@ -221,6 +221,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/siddharth9238/My-LeetCode/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/siddharth9238/My-LeetCode/tree/master/0190-reverse-bits) |
 | [0218-the-skyline-problem](https://github.com/siddharth9238/My-LeetCode/tree/master/0218-the-skyline-problem) |
 | [1382-balance-a-binary-search-tree](https://github.com/siddharth9238/My-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [3721-longest-balanced-subarray-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -292,6 +293,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/siddharth9238/My-LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/siddharth9238/My-LeetCode/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/siddharth9238/My-LeetCode/tree/master/0190-reverse-bits) |
 ## Simulation
 |  |
 | ------- |
