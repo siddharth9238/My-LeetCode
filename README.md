@@ -243,6 +243,7 @@
 | ------- |
 | [0218-the-skyline-problem](https://github.com/siddharth9238/My-LeetCode/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/siddharth9238/My-LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/siddharth9238/My-LeetCode/tree/master/0295-find-median-from-data-stream) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -292,6 +293,7 @@
 | [0075-sort-colors](https://github.com/siddharth9238/My-LeetCode/tree/master/0075-sort-colors) |
 | [0218-the-skyline-problem](https://github.com/siddharth9238/My-LeetCode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/siddharth9238/My-LeetCode/tree/master/0220-contains-duplicate-iii) |
+| [0295-find-median-from-data-stream](https://github.com/siddharth9238/My-LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [1288-remove-covered-intervals](https://github.com/siddharth9238/My-LeetCode/tree/master/1288-remove-covered-intervals) |
 ## Ordered Set
 |  |
@@ -332,6 +334,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/siddharth9238/My-LeetCode/tree/master/0086-partition-list) |
+| [0295-find-median-from-data-stream](https://github.com/siddharth9238/My-LeetCode/tree/master/0295-find-median-from-data-stream) |
 ## Linked List
 |  |
 | ------- |
@@ -363,4 +366,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/siddharth9238/My-LeetCode/tree/master/0062-unique-paths) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/siddharth9238/My-LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/siddharth9238/My-LeetCode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
