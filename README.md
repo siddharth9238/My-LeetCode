@@ -28,6 +28,7 @@
 | [0224-basic-calculator](https://github.com/siddharth9238/My-LeetCode/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/siddharth9238/My-LeetCode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/siddharth9238/My-LeetCode/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/siddharth9238/My-LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/siddharth9238/My-LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
@@ -172,6 +173,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/siddharth9238/My-LeetCode/tree/master/0127-word-ladder) |
+| [0301-remove-invalid-parentheses](https://github.com/siddharth9238/My-LeetCode/tree/master/0301-remove-invalid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -188,6 +190,7 @@
 | [0140-word-break-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0212-word-search-ii) |
 | [0282-expression-add-operators](https://github.com/siddharth9238/My-LeetCode/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/siddharth9238/My-LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/siddharth9238/My-LeetCode/tree/master/0401-binary-watch) |
 ## Trie
 |  |
