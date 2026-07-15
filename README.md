@@ -178,6 +178,7 @@
 | [0077-combinations](https://github.com/siddharth9238/My-LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/siddharth9238/My-LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/siddharth9238/My-LeetCode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/siddharth9238/My-LeetCode/tree/master/0089-gray-code) |
 | [0140-word-break-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0212-word-search-ii) |
 | [0401-binary-watch](https://github.com/siddharth9238/My-LeetCode/tree/master/0401-binary-watch) |
@@ -201,6 +202,7 @@
 | [0050-powx-n](https://github.com/siddharth9238/My-LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/siddharth9238/My-LeetCode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/siddharth9238/My-LeetCode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/siddharth9238/My-LeetCode/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/siddharth9238/My-LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/siddharth9238/My-LeetCode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/siddharth9238/My-LeetCode/tree/master/0233-number-of-digit-one) |
@@ -332,6 +334,7 @@
 | [0029-divide-two-integers](https://github.com/siddharth9238/My-LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/siddharth9238/My-LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/siddharth9238/My-LeetCode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/siddharth9238/My-LeetCode/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/siddharth9238/My-LeetCode/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/siddharth9238/My-LeetCode/tree/master/0401-binary-watch) |
 ## Simulation
