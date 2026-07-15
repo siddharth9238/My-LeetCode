@@ -318,10 +318,12 @@
 | [0031-next-permutation](https://github.com/siddharth9238/My-LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/siddharth9238/My-LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/siddharth9238/My-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
