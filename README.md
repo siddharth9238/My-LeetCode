@@ -30,6 +30,7 @@
 | [0045-jump-game-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/siddharth9238/My-LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/siddharth9238/My-LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/siddharth9238/My-LeetCode/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/siddharth9238/My-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/siddharth9238/My-LeetCode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/siddharth9238/My-LeetCode/tree/master/0115-distinct-subsequences) |
@@ -174,6 +175,7 @@
 | [0029-divide-two-integers](https://github.com/siddharth9238/My-LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/siddharth9238/My-LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/siddharth9238/My-LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/siddharth9238/My-LeetCode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/siddharth9238/My-LeetCode/tree/master/0067-add-binary) |
 | [0149-max-points-on-a-line](https://github.com/siddharth9238/My-LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/siddharth9238/My-LeetCode/tree/master/0224-basic-calculator) |
@@ -310,4 +312,8 @@
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/siddharth9238/My-LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/siddharth9238/My-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/siddharth9238/My-LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
