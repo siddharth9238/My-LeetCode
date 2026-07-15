@@ -76,6 +76,7 @@
 | [0063-unique-paths-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/siddharth9238/My-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/siddharth9238/My-LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/siddharth9238/My-LeetCode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/siddharth9238/My-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/siddharth9238/My-LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/siddharth9238/My-LeetCode/tree/master/0135-candy) |
@@ -266,6 +267,7 @@
 | [0047-permutations-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/siddharth9238/My-LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/siddharth9238/My-LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/siddharth9238/My-LeetCode/tree/master/0075-sort-colors) |
 | [0218-the-skyline-problem](https://github.com/siddharth9238/My-LeetCode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/siddharth9238/My-LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [1288-remove-covered-intervals](https://github.com/siddharth9238/My-LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -303,6 +305,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/siddharth9238/My-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siddharth9238/My-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/siddharth9238/My-LeetCode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/siddharth9238/My-LeetCode/tree/master/0075-sort-colors) |
 ## Linked List
 |  |
 | ------- |
