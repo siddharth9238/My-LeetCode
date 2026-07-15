@@ -15,6 +15,7 @@
 | [0058-length-of-last-word](https://github.com/siddharth9238/My-LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/siddharth9238/My-LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/siddharth9238/My-LeetCode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/siddharth9238/My-LeetCode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/siddharth9238/My-LeetCode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/siddharth9238/My-LeetCode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/siddharth9238/My-LeetCode/tree/master/0127-word-ladder) |
@@ -34,6 +35,7 @@
 | [0062-unique-paths](https://github.com/siddharth9238/My-LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/siddharth9238/My-LeetCode/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/siddharth9238/My-LeetCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/siddharth9238/My-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/siddharth9238/My-LeetCode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/siddharth9238/My-LeetCode/tree/master/0115-distinct-subsequences) |
