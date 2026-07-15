@@ -103,6 +103,7 @@
 | [0239-sliding-window-maximum](https://github.com/siddharth9238/My-LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0312-burst-balloons](https://github.com/siddharth9238/My-LeetCode/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/siddharth9238/My-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0321-create-maximum-number](https://github.com/siddharth9238/My-LeetCode/tree/master/0321-create-maximum-number) |
 | [1288-remove-covered-intervals](https://github.com/siddharth9238/My-LeetCode/tree/master/1288-remove-covered-intervals) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/siddharth9238/My-LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3721-longest-balanced-subarray-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -113,6 +114,7 @@
 | [0071-simplify-path](https://github.com/siddharth9238/My-LeetCode/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/siddharth9238/My-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0224-basic-calculator](https://github.com/siddharth9238/My-LeetCode/tree/master/0224-basic-calculator) |
+| [0321-create-maximum-number](https://github.com/siddharth9238/My-LeetCode/tree/master/0321-create-maximum-number) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/siddharth9238/My-LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Matrix
 |  |
@@ -132,6 +134,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/siddharth9238/My-LeetCode/tree/master/0085-maximal-rectangle) |
+| [0321-create-maximum-number](https://github.com/siddharth9238/My-LeetCode/tree/master/0321-create-maximum-number) |
 ## Tree
 |  |
 | ------- |
@@ -158,6 +161,7 @@
 | [0045-jump-game-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/siddharth9238/My-LeetCode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/siddharth9238/My-LeetCode/tree/master/0135-candy) |
+| [0321-create-maximum-number](https://github.com/siddharth9238/My-LeetCode/tree/master/0321-create-maximum-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/siddharth9238/My-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Hash Table
 |  |
@@ -346,6 +350,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/siddharth9238/My-LeetCode/tree/master/0086-partition-list) |
 | [0295-find-median-from-data-stream](https://github.com/siddharth9238/My-LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0321-create-maximum-number](https://github.com/siddharth9238/My-LeetCode/tree/master/0321-create-maximum-number) |
 ## Linked List
 |  |
 | ------- |
