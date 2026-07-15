@@ -16,6 +16,7 @@
 | [0067-add-binary](https://github.com/siddharth9238/My-LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/siddharth9238/My-LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/siddharth9238/My-LeetCode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/siddharth9238/My-LeetCode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/siddharth9238/My-LeetCode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/siddharth9238/My-LeetCode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/siddharth9238/My-LeetCode/tree/master/0127-word-ladder) |
@@ -78,6 +79,7 @@
 | [0073-set-matrix-zeroes](https://github.com/siddharth9238/My-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/siddharth9238/My-LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/siddharth9238/My-LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/siddharth9238/My-LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/siddharth9238/My-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/siddharth9238/My-LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/siddharth9238/My-LeetCode/tree/master/0135-candy) |
@@ -111,6 +113,7 @@
 | [0063-unique-paths-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/siddharth9238/My-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/siddharth9238/My-LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/siddharth9238/My-LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/siddharth9238/My-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/siddharth9238/My-LeetCode/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0212-word-search-ii) |
@@ -127,6 +130,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/siddharth9238/My-LeetCode/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/siddharth9238/My-LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/siddharth9238/My-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/siddharth9238/My-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
@@ -171,6 +175,7 @@
 | [0047-permutations-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/siddharth9238/My-LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/siddharth9238/My-LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/siddharth9238/My-LeetCode/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0212-word-search-ii) |
 | [0401-binary-watch](https://github.com/siddharth9238/My-LeetCode/tree/master/0401-binary-watch) |
