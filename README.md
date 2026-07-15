@@ -75,6 +75,7 @@
 | [0059-spiral-matrix-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/siddharth9238/My-LeetCode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/siddharth9238/My-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/siddharth9238/My-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/siddharth9238/My-LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/siddharth9238/My-LeetCode/tree/master/0135-candy) |
@@ -107,6 +108,7 @@
 | [0059-spiral-matrix-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/siddharth9238/My-LeetCode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/siddharth9238/My-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/siddharth9238/My-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/siddharth9238/My-LeetCode/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0212-word-search-ii) |
@@ -148,6 +150,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/siddharth9238/My-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/siddharth9238/My-LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/siddharth9238/My-LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/siddharth9238/My-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/siddharth9238/My-LeetCode/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/siddharth9238/My-LeetCode/tree/master/0149-max-points-on-a-line) |
