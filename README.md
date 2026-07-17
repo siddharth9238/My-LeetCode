@@ -105,6 +105,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/siddharth9238/My-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0321-create-maximum-number](https://github.com/siddharth9238/My-LeetCode/tree/master/0321-create-maximum-number) |
 | [1288-remove-covered-intervals](https://github.com/siddharth9238/My-LeetCode/tree/master/1288-remove-covered-intervals) |
+| [3312-sorted-gcd-pair-queries](https://github.com/siddharth9238/My-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/siddharth9238/My-LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3721-longest-balanced-subarray-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Stack
@@ -175,6 +176,7 @@
 | [0127-word-ladder](https://github.com/siddharth9238/My-LeetCode/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/siddharth9238/My-LeetCode/tree/master/0149-max-points-on-a-line) |
+| [3312-sorted-gcd-pair-queries](https://github.com/siddharth9238/My-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3721-longest-balanced-subarray-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Breadth-First Search
 |  |
@@ -225,6 +227,7 @@
 | [0233-number-of-digit-one](https://github.com/siddharth9238/My-LeetCode/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/siddharth9238/My-LeetCode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/siddharth9238/My-LeetCode/tree/master/0282-expression-add-operators) |
+| [3312-sorted-gcd-pair-queries](https://github.com/siddharth9238/My-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/siddharth9238/My-LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/siddharth9238/My-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/siddharth9238/My-LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -240,6 +243,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/siddharth9238/My-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3312-sorted-gcd-pair-queries](https://github.com/siddharth9238/My-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Queue
 |  |
 | ------- |
@@ -333,6 +337,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/siddharth9238/My-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3721-longest-balanced-subarray-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
@@ -377,12 +382,14 @@
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/siddharth9238/My-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/siddharth9238/My-LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/siddharth9238/My-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/siddharth9238/My-LeetCode/tree/master/0062-unique-paths) |
+| [3312-sorted-gcd-pair-queries](https://github.com/siddharth9238/My-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Design
 |  |
 | ------- |
@@ -395,4 +402,8 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/siddharth9238/My-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/siddharth9238/My-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
