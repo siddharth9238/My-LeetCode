@@ -29,6 +29,7 @@
 | [0273-integer-to-english-words](https://github.com/siddharth9238/My-LeetCode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/siddharth9238/My-LeetCode/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/siddharth9238/My-LeetCode/tree/master/0301-remove-invalid-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/siddharth9238/My-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/siddharth9238/My-LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
@@ -117,6 +118,7 @@
 | [0085-maximal-rectangle](https://github.com/siddharth9238/My-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0224-basic-calculator](https://github.com/siddharth9238/My-LeetCode/tree/master/0224-basic-calculator) |
 | [0321-create-maximum-number](https://github.com/siddharth9238/My-LeetCode/tree/master/0321-create-maximum-number) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/siddharth9238/My-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/siddharth9238/My-LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Matrix
 |  |
@@ -137,6 +139,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/siddharth9238/My-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0321-create-maximum-number](https://github.com/siddharth9238/My-LeetCode/tree/master/0321-create-maximum-number) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/siddharth9238/My-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
 |  |
 | ------- |
@@ -164,6 +167,7 @@
 | [0055-jump-game](https://github.com/siddharth9238/My-LeetCode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/siddharth9238/My-LeetCode/tree/master/0135-candy) |
 | [0321-create-maximum-number](https://github.com/siddharth9238/My-LeetCode/tree/master/0321-create-maximum-number) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/siddharth9238/My-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/siddharth9238/My-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Hash Table
 |  |
