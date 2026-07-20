@@ -105,6 +105,7 @@
 | [0312-burst-balloons](https://github.com/siddharth9238/My-LeetCode/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/siddharth9238/My-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0321-create-maximum-number](https://github.com/siddharth9238/My-LeetCode/tree/master/0321-create-maximum-number) |
+| [1260-shift-2d-grid](https://github.com/siddharth9238/My-LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/siddharth9238/My-LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/siddharth9238/My-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/siddharth9238/My-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -134,6 +135,7 @@
 | [0085-maximal-rectangle](https://github.com/siddharth9238/My-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/siddharth9238/My-LeetCode/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0212-word-search-ii) |
+| [1260-shift-2d-grid](https://github.com/siddharth9238/My-LeetCode/tree/master/1260-shift-2d-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -385,6 +387,7 @@
 | [0054-spiral-matrix](https://github.com/siddharth9238/My-LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/siddharth9238/My-LeetCode/tree/master/0067-add-binary) |
+| [1260-shift-2d-grid](https://github.com/siddharth9238/My-LeetCode/tree/master/1260-shift-2d-grid) |
 ## Number Theory
 |  |
 | ------- |
