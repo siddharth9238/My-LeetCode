@@ -31,6 +31,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/siddharth9238/My-LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/siddharth9238/My-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/siddharth9238/My-LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/siddharth9238/My-LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
@@ -416,4 +417,8 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/siddharth9238/My-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/siddharth9238/My-LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
