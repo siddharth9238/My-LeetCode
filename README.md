@@ -47,6 +47,7 @@
 | [0085-maximal-rectangle](https://github.com/siddharth9238/My-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/siddharth9238/My-LeetCode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/siddharth9238/My-LeetCode/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/siddharth9238/My-LeetCode/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/siddharth9238/My-LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/siddharth9238/My-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -147,6 +148,7 @@
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0110-balanced-binary-tree](https://github.com/siddharth9238/My-LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/siddharth9238/My-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/siddharth9238/My-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
@@ -160,6 +162,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0110-balanced-binary-tree](https://github.com/siddharth9238/My-LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/siddharth9238/My-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/siddharth9238/My-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
@@ -206,6 +209,7 @@
 | [0089-gray-code](https://github.com/siddharth9238/My-LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/siddharth9238/My-LeetCode/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0140-word-break-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0212-word-search-ii) |
 | [0282-expression-add-operators](https://github.com/siddharth9238/My-LeetCode/tree/master/0282-expression-add-operators) |
@@ -344,6 +348,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/siddharth9238/My-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Prefix Sum
 |  |
