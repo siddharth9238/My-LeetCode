@@ -33,6 +33,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/siddharth9238/My-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/siddharth9238/My-LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/siddharth9238/My-LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
@@ -113,6 +114,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/siddharth9238/My-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/siddharth9238/My-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/siddharth9238/My-LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Stack
 |  |
@@ -259,6 +261,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/siddharth9238/My-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3312-sorted-gcd-pair-queries](https://github.com/siddharth9238/My-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Queue
 |  |
 | ------- |
@@ -309,6 +312,7 @@
 | ------- |
 | [0218-the-skyline-problem](https://github.com/siddharth9238/My-LeetCode/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/siddharth9238/My-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sweep Line
 |  |
