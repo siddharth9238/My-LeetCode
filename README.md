@@ -109,6 +109,7 @@
 | [0312-burst-balloons](https://github.com/siddharth9238/My-LeetCode/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/siddharth9238/My-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0321-create-maximum-number](https://github.com/siddharth9238/My-LeetCode/tree/master/0321-create-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/siddharth9238/My-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/siddharth9238/My-LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/siddharth9238/My-LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/siddharth9238/My-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -245,6 +246,7 @@
 | [0233-number-of-digit-one](https://github.com/siddharth9238/My-LeetCode/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/siddharth9238/My-LeetCode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/siddharth9238/My-LeetCode/tree/master/0282-expression-add-operators) |
+| [0628-maximum-product-of-three-numbers](https://github.com/siddharth9238/My-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/siddharth9238/My-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/siddharth9238/My-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/siddharth9238/My-LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -336,6 +338,7 @@
 | [0218-the-skyline-problem](https://github.com/siddharth9238/My-LeetCode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/siddharth9238/My-LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0295-find-median-from-data-stream](https://github.com/siddharth9238/My-LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0628-maximum-product-of-three-numbers](https://github.com/siddharth9238/My-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/siddharth9238/My-LeetCode/tree/master/1288-remove-covered-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/siddharth9238/My-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Ordered Set
