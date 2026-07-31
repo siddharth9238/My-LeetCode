@@ -33,6 +33,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/siddharth9238/My-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/siddharth9238/My-LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/siddharth9238/My-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/siddharth9238/My-LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/siddharth9238/My-LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -186,6 +187,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/siddharth9238/My-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/siddharth9238/My-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/siddharth9238/My-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -198,6 +200,7 @@
 | [0127-word-ladder](https://github.com/siddharth9238/My-LeetCode/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/siddharth9238/My-LeetCode/tree/master/0149-max-points-on-a-line) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/siddharth9238/My-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -350,6 +353,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/siddharth9238/My-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/siddharth9238/My-LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddharth9238/My-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/siddharth9238/My-LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/siddharth9238/My-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Ordered Set
@@ -450,6 +454,7 @@
 ## Counting
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/siddharth9238/My-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/siddharth9238/My-LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Enumeration
