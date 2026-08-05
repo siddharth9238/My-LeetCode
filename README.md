@@ -176,6 +176,7 @@
 | [0110-balanced-binary-tree](https://github.com/siddharth9238/My-LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/siddharth9238/My-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/siddharth9238/My-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [3310-remove-methods-from-project](https://github.com/siddharth9238/My-LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -217,6 +218,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/siddharth9238/My-LeetCode/tree/master/0127-word-ladder) |
 | [0301-remove-invalid-parentheses](https://github.com/siddharth9238/My-LeetCode/tree/master/0301-remove-invalid-parentheses) |
+| [3310-remove-methods-from-project](https://github.com/siddharth9238/My-LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
 |  |
 | ------- |
@@ -493,4 +495,8 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/siddharth9238/My-LeetCode/tree/master/1406-stone-game-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/siddharth9238/My-LeetCode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
